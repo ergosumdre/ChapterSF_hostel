@@ -6,3 +6,4 @@ plotly
 instaloader
 lxml
 googlesearch-python
+streamlit_gsheets
